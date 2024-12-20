@@ -4,9 +4,7 @@
 <h3 align="center">A passionate Data Analyst</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniyalshaikh313" alt="daniyalshaikh313" /></a> </p>
-
-- **🌱 I’m currently learning**
+- **🌱 I’m currently learning** <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniyalshaikh313" alt="daniyalshaikh313" /></a> </p>
 - **Data Cleaning and Analysis with Python (Pandas, NumPy)**
 - **Writing SQL queries to manage and analyze datasets Creating dashboards**
 - **visualizations with Tableau & Power BI Fundamental statistics for data analysis**

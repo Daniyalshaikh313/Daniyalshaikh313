@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniyal Shaikh</h1>
 <h3 align="center">A passionate Data Analytic</h3>
-<div align="center"> <img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Youtube%20Channel%20Banner.png"> </div>
+<img src="https://drive.google.com/uc?export=view&id=1U3YClKkSo71Qtuf9joLoczpVOUmnkJH3">
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 

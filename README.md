@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniyal Shaikh</h1>
 <img src="https://drive.google.com/uc?export=view&id=1U3YClKkSo71Qtuf9joLoczpVOUmnkJH3">
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-<h3 align="center">A passionate Data Analyst</h3>
+<h3 align="center">***🎯 Aspiring Data Analyst | Python Enthusiast | SQL | Dashboards & Visualizations*** </h3>
 
 
 🌱 **Currently Learning:**

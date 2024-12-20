@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniyal Shaikh</h1>
 <h3 align="center">A passionate Data Analytic</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniyalshaikh313" alt="daniyalshaikh313" /></a> </p>
 

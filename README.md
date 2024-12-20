@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Daniyal Shaikh</h1>
-<h3 align="center">A passionate Data Analytic</h3>
 <img src="https://drive.google.com/uc?export=view&id=1U3YClKkSo71Qtuf9joLoczpVOUmnkJH3">
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<h3 align="center">A passionate Data Analyst</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniyalshaikh313" alt="daniyalshaikh313" /></a> </p>
 
-- 🌱 I’m currently learning **Data Cleaning and Analysis with Python (Pandas, NumPy) Writing SQL queries to manage and analyze datasets Creating dashboards and visualizations with Tableau & Power BI Fundamental statistics for data analysis**
+- **🌱 I’m currently learning**
+- **Data Cleaning and Analysis with Python (Pandas, NumPy)**
+- **Writing SQL queries to manage and analyze datasets Creating dashboards**
+- **visualizations with Tableau & Power BI Fundamental statistics for data analysis**
 
 - 📫 How to reach me **daniyalsheikh3130@gmail.com**
 

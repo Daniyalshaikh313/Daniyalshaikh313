@@ -4,19 +4,32 @@
 <h3 align="center"> **Professional Data Analyst** </h3>
 
 
-🌱 **Currently Learning:**
-- 📊 **Data Cleaning and Analysis** with Python (**Pandas**, **NumPy**)
-- 🗂️ Writing **SQL Queries** to manage and analyze datasets
-- 📈 Creating **Dashboards & Visualizations** with **Tableau** & **Power BI**
-- 🧮 Fundamental **Statistics for Data Analysis**
+-📜 Certified Data Analyst
+-✅ Backed with hands-on project experience, practical tools, and a deep understanding of data-driven problem-solving.
 
 ---
 
-💡 **What I Bring to the Table:**
-- 🛠️ **Proficient in Tools:** Python, Pandas, NumPy, SQL, Excel, Tableau, Power BI
-- 🔍 Skilled in **Data Wrangling**, **Exploratory Data Analysis**, and **Statistical Modeling**
-- 📚 Hands-on experience in **Data Storytelling** to drive impactful business decisions
-- 🚀 Passionate about leveraging data to solve real-world problems
+# 🚀 What I Bring to the Table:
+🛠️ Proficient Tools & Technologies:
+    Python, Pandas, NumPy, Scikit-learn, SQL, Excel, Tableau, Power BI, QuickSight, Matplotlib, Seaborn, Selenium, beautifulsoup 
+
+🔧 Core Data Skills:
+     Data Wrangling, Data Cleaning, Exploratory Data Analysis (EDA), Feature Engineering, A/B Testing, Hypothesis Testing, Statistical Modeling
+
+📊 Data Visualization & BI:
+     Power BI, Tableau, QuickSight Dashboards, System Monitoring, KPI Tracking, User-Centric Dashboard Design
+ 
+ ⚙️ Automation & Scripting:
+     ETL Automation, Workflow Building, API Integration, Repeatable Process Automation using Python & SQL
+
+🤖 Machine Learning & Advanced Analytics:
+     Logistic Regression, Decision Trees, Clustering, Classification, Model Evaluation, Supervised & Unsupervised Learning
+ 
+ 🛢️ Database & Pipeline Management:
+     MySQL, PostgreSQL, Advanced SQL Queries, Data Pipeline Automation
+
+🤝 Business & Communication Skills:
+     Stakeholder Communication, Requirement Gathering, Business Documentation, Cross-functional Collaboration, Process Optimization
 
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniyalshaikh313" alt="daniyalshaikh313" /></a> </p>
 
